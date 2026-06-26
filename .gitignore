@@ -1,0 +1,13 @@
+# Dataset
+tutorial_calorimeter_showers.h5
+*.h5
+
+# Checkpoints
+checkpoint/
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
