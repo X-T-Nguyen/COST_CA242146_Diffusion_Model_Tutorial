@@ -28,25 +28,6 @@ By the end of this tutorial, participants will be able to:
 
 ---
 
-## Tutorial Information
-
-**Introduction**
-
-Long Chen
-
-**Code Tutorial**
-
-Xuan Tung Nguyen
-
-**Affiliation**
-
-Scientific Computing (SciComp)  
-Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU)
-
-Prepared for **COST Action CA242146**.
-
----
-
 ## Repository Structure
 
 ```text
