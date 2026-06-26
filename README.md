@@ -139,6 +139,30 @@ The notebook covers the following topics:
 
 ---
 
+## Related Resources
+
+This tutorial presents a simplified implementation of diffusion models for educational purposes. It is based on the methodology developed in our research on differentiable detector simulation and design using diffusion models.
+
+### Publication
+
+**Differentiable surrogate for detector simulation and design with diffusion models**
+
+Xuan Tung Nguyen, Long Chen, Tommaso Dorigo, Nicolas R. Gauger, Pietro Vischia, Federico Nardi, Muhammad Awais, Hamza Hanif, Shahzaib Abbas, and Rukshak Kapoor
+
+*Machine Learning: Science and Technology*, **7**(2), 025061 (2026)
+
+DOI: https://doi.org/10.1088/2632-2153/ae5c56
+
+### Source Code
+
+The complete research implementation, including differentiable detector optimization and full-scale calorimeter shower generation, is available at:
+
+https://github.com/X-T-Nguyen/Diffusion-Surrogate-Detector-Design
+
+Compared to the research code, this tutorial provides a lightweight implementation that focuses on the core ideas behind conditional diffusion models, making it suitable for teaching and hands-on learning.
+
+---
+
 ## Acknowledgements
 
 This tutorial was prepared as part of **COST Action CA242146** to introduce modern generative models for High-Energy Physics applications and promote hands-on training in scientific machine learning.
